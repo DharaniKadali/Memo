@@ -26,8 +26,8 @@ Memo AI is a lightweight Streamlit application that helps writers, authors, stud
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/memo-ai.git
-   cd memo-ai
+   git clone https://github.com/yourusername/Memo.git
+   cd Memo
 ````
 
 2. **Install dependencies:**
@@ -61,7 +61,7 @@ Memo AI is a lightweight Streamlit application that helps writers, authors, stud
 ## 📁 Project Structure
 
 ```
-memo-ai/
+Memo/
 ├── app.py                # Main Streamlit app
 ├── .env                  # API key (not to be committed)
 ├── requirements.txt      # Python dependencies
