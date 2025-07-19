@@ -12,7 +12,7 @@ Memo AI is a lightweight Streamlit application that helps writers, authors, stud
 
 ## 🖼️ Demo
 
-> Coming soon...
+https://memoai.streamlit.app/
 
 ## 🛠️ Tech Stack
 
